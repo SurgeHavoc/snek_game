@@ -19,7 +19,10 @@ This project also happened to provide me with an opportunity to implement a cap 
 
 ## Usage
 Run the .exe using ./snek_game
+
 Arrow keys control the snake.
+
+Press the escape key to exit the game.
 
 
 Navigate the snake and collect the apple (the red squares) that appears randomly on the screen.
