@@ -10,4 +10,27 @@ As the player progresses, the score will increase, and so will the speed of the 
 ### Motivation
 
 Retro arcade games are some of my favorite games ever. Snake was an easy pick to make because it is simple, fun, and iconic. I also developed this project to enhance my understanding of using C++ with SDL2 and game architecture.
-This project also happened to provide me with an opportunity to implement a cap on frame rate, leading me to eventually get into learning variable frame rate.
+This project also happened to provide me with an opportunity to implement a cap on frame rate, leading me to eventually get into learning about variable frame rate.
+
+### What I Learned
+- Frame rate capping
+- Implementing collision detection
+- Rendering graphics in SDL2
+
+## Usage
+Run the .exe using ./snek_game
+Arrow keys control the snake.
+
+
+Navigate the snake and collect the apple (the red squares) that appears randomly on the screen.
+Each apple increases the snake length by one unit.
+The speed increases as the score increases.
+Avoid colliding with obstacles, the walls, or the snake itself to prevent a game over.
+Current score can be tracked in the window's title bar on the top left of it.
+
+## Credits
+- I worked on this project solo.
+
+## Acknowledgments
+SDL2 Library - [SDL website](https://www.libsdl.org/)
+- I followed a C tutorial that I found a while ago.
