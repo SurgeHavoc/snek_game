@@ -18,13 +18,12 @@ This project also happened to provide me with an opportunity to implement a cap 
 - Rendering graphics in SDL2
 
 ## Usage
-Run the .exe using ./snek_game
+### Controls
+- Run the .exe using ./snek_game
+- Arrow keys control the snake.
+- Press the escape key to exit the game.
 
-Arrow keys control the snake.
-
-Press the escape key to exit the game.
-
-
+### Gameplay
 Navigate the snake and collect the apple (the red squares) that appears randomly on the screen.
 Each apple increases the snake length by one unit.
 The speed increases as the score increases.
