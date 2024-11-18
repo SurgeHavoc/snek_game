@@ -18,8 +18,10 @@ This project also happened to provide me with an opportunity to implement a cap 
 - Rendering graphics in SDL2
 
 ## Usage
-### Controls
+### Starting the Game
 - Run the .exe using ./snek_game
+
+### Controls
 - Arrow keys control the snake.
 - Press the escape key to exit the game.
 
