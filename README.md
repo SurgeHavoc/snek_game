@@ -20,7 +20,6 @@ This project also happened to provide me with an opportunity to implement a cap 
 ## Usage
 ### Starting the Game
 - Run the .exe using ./snek_game
-
 ### Controls
 - Arrow keys control the snake.
 - Press the escape key to exit the game.
