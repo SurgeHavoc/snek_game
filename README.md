@@ -34,6 +34,8 @@ Current score can be tracked in the window's title bar on the top left of it.
 
 ![Screenshot 2024-11-18 020106](https://github.com/user-attachments/assets/f2780981-a949-45c7-af26-c95c853d4faa)
 ![Screenshot 2024-11-18 020224](https://github.com/user-attachments/assets/6dcaf43c-aee7-4a32-895c-f22c0e9f5eb2)
+![image](https://github.com/user-attachments/assets/18c20905-9a27-48cf-be70-9146fcbe7d75)
+
 
 
 
