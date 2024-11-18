@@ -32,6 +32,9 @@ The speed increases as the score increases.
 Avoid colliding with obstacles, the walls, or the snake itself to prevent a game over.
 Current score can be tracked in the window's title bar on the top left of it.
 
+![image](https://github.com/user-attachments/assets/070f7dc1-991a-4deb-8862-37dd65410a23)
+
+
 ## Credits
 - I worked on this project solo.
 
